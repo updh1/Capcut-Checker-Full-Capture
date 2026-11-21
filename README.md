@@ -23,7 +23,7 @@ A fast, multi-threaded CapCut account checker that validates email/password comb
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/capcut-checker.git
+git clone git@github.com:updh1/Capcut-Checker-Full-Capture.git
 ```
 ```bash
 cd capcut-checker
